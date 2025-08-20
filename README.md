@@ -6,10 +6,28 @@ CodeExplain leverages Python’s Abstract Syntax Tree (AST) to analyze your `.py
 
 ---
 
+## CodeExplain Demo Introduction Video
+
+https://github.com/user-attachments/assets/ded8760f-d6b3-42f2-a884-fd0bab7a1bcb
+
+---
+
 ## 🌐 Live Demo
 
 Try it instantly here:  
 🔗 [CodeExplain Demo](https://huggingface.co/spaces/ctntrk/CodeExplain)
+
+---
+
+## CodeExplain HuggingFace Space
+
+![Alt text](https://github.com/ctntrk/Code-Explain-Auto-Documentation-for-Python-Scripts/blob/main/CodeExplain-HuggingFace-Space.png)
+
+
+## CodeExplain HuggingFace Space Web Interface
+
+![Alt text](https://github.com/ctntrk/Code-Explain-Auto-Documentation-for-Python-Scripts/blob/main/CodeExplain-HuggingFace-Space-Web-Interface.png)
+
 
 ---
 
@@ -41,7 +59,28 @@ Try it instantly here:
 3. **Code Analysis:** Extracts imports, classes, functions, assignments, loops, calls, and return statements.  
 4. **Docstring Extraction:** Retrieves and includes docstrings for classes and functions if present.  
 5. **Documentation Generation:** Formats the extracted data into clean Markdown.  
-6. **Display:** Shows the original source code alongside the generated documentation.  
+6. **Display:** Shows the original source code alongside the generated documentation.
+
+---
+
+## CodeExplain Web Interface
+
+![Alt text](https://github.com/ctntrk/Code-Explain-Auto-Documentation-for-Python-Scripts/blob/main/CodeExplain-Web-Interface.jpg)
+
+---
+
+## File Upload
+
+![Alt text](https://github.com/ctntrk/Code-Explain-Auto-Documentation-for-Python-Scripts/blob/main/File-Upload.jpg)
+
+
+> The .py file featured in the promotional video is part of the AI-Powered Chart Analysis PDF Report Generator project.
+
+---
+
+## Post-Analysis Results Screen
+
+![Alt text](https://github.com/ctntrk/Code-Explain-Auto-Documentation-for-Python-Scripts/blob/main/Post-Analysis-Results-Screen.jpg)
 
 ---
 
